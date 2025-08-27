@@ -52,7 +52,7 @@
         <button name="login" type="submit">Log in</button>
       </form>
       <p>Don't have an account? <a href="register.php">Register here</a></p>
-      
+      <p>Admin login: username <strong>admin</strong> password <strong>admin123</strong></p>
     </div>
     </body>
     </html>
